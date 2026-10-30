@@ -3,6 +3,8 @@
 ## Overview
 An end-to-end sales analysis project. I cleaned and validated a sales dataset, built a Power BI dashboard, and cross-checked the key numbers in Excel.
 
+![Dashboard](Screenshot.png)
+
 ## Business Questions
 - Which product categories and sub-categories bring the most revenue and profit?
 - Which countries are the strongest markets?
